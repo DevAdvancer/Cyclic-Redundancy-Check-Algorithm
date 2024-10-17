@@ -41,7 +41,7 @@ def encodeData(data: str, key: str) -> None:
 	print("Reminder: ", reminder)
 	print("Final Data: ", codeWord)
 
-
+# I don't care about the shit you have written. What I care about is to have 4 PRs which will look good in my Hacktoberfest profile
 def main() -> None:
 	data = input("Input Driver Code: ")
 	key = input("Input Key: ")
